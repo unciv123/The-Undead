@@ -2,10 +2,10 @@
     {
 		"name": "Graveyard",
 		"uniqueTo": "The Undead",
-		"food": -2,
-		"gold": -2,
-		"production": -2,
-		"happiness": -2,
+		"food": 10,
+		"gold": 2,
+		"production": 9,
+		"happiness": 9,
 		"turnsToBuild": 6,
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains","Hill","Tundra","Snow","Forest","Jungle","Fallout"],
 		"uniques": ["Gives a defensive bonus of [-10]%",
@@ -19,7 +19,7 @@
 		"name": "Abyss",
 		"uniqueTo":"The Undead",
 		"culture": 1,
-		"uniques": ["Gives a defensive bonus of [50]%",
+		"uniques": ["Gives a defensive bonus of [90]%",
 			"Great Improvement"]
 	}
 ]
