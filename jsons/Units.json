@@ -4,9 +4,9 @@
 		"uniqueTo": "The Undead",
 		"replaces": "Settler",
 		"unitType": "Civilian",
-		"movement": 2,
+		"movement": 3,
 		"cost": 30,
-		"uniques": ["Bonus for units in 2 tile radius 15%",
+		"uniques": ["Bonus for units in 3 tile radius 95%",
 			"Can construct [Citadel]",
 			"Cost increases by [50] per owned city",
 			"Cannot be purchased"]
@@ -22,7 +22,7 @@
 			"Can pass through impassable tiles",
 			"Invisible to others",
 			"Can attack submarines",
-			"+1 Visibility Range",
+			"+3 Visibility Range",
 			"May withdraw before melee ([150]%)"]
 	},
 	{
@@ -113,7 +113,7 @@
 		"replaces": "Great General",
 		"uniques": ["Ignores terrain cost",
 			"Can start an [6]-turn golden age",
-			"Bonus for units in 2 tile radius 15%",
+			"Bonus for units in 2 tile radius 95%",
 			"Can construct [Citadel]",
 			"Great Person - [War]",
 			"Unbuildable"],
