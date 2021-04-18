@@ -5,22 +5,22 @@
 	},
 	{
 		"name": "Breach the Walls",
-		"uniques": ["+[15]% Strength vs [City]"]
+		"uniques": ["+[95]% Strength vs [City]"]
 	},
 	{
 		"name": "Eat the Living",
-		"uniques": ["Heals [25] damage if it kills a unit", "Earn [25]% of [military] opponent's [Strength] as [Culture] for kills"]
+		"uniques": ["Heals [75] damage if it kills a unit", "Earn [25]% of [military] opponent's [Strength] as [Culture] for kills"]
 	},
 	{
 		"name": "Hard to Kill Twice",
-		"uniques": ["+[15]% Strength when defending"]
+		"uniques": ["+[95]% Strength when defending"]
 	},
 	{
 		"name": "Sickening Plague",
-		"uniques": ["-10% combat strength for adjacent enemy units", "+[5]% Strength vs [wounded units]"]
+		"uniques": ["-70% combat strength for adjacent enemy units", "+[5]% Strength vs [wounded units]"]
 	},
 	{
 		"name": "Summon the Lich King",
-		"uniques": ["[Great General] is earned [25]% faster"]
+		"uniques": ["[Great General] is earned [95]% faster"]
 	}
 ]
